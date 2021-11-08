@@ -105,7 +105,7 @@ author:
   name             : "Joseph Young"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Sr. SOC Engineer, CISSP, CEH"
-  location         : "Minnesota, US"
+  #location         : "Minnesota, US"
   email            : "sechobbyist@gmail.com"
   links:
     - label: "Twitter"
